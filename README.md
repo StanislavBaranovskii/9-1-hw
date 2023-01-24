@@ -25,19 +25,22 @@
 ## Задание 1
 
 Создайте виртуальную машину в Yandex Cloud Compute Cloud и с помощью Yandex Monitoring создайте дашборд, на котором будет видно загрузку процессора.
+
 *Приложите скриншот.*
 ```
 ```
-![Скриншот дашборда](https://github.com/StanislavBaranovskii/8-3-hw/blob/master/img/8-1-1-1.png "Скриншот дашборда")
+![Скриншот дашборда](https://github.com/StanislavBaranovskii/9-1-hw/blob/main/img/9-1-1-1.png "Скриншот дашборда")
 
 ---
 
 ## Задание 2*
 
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
+
 *Приложите скриншот с уведомлением.*
 ```
 ```
-![Скриншот с уведомлением](https://github.com/StanislavBaranovskii/9-1-hw/blob/master/img/9-1-2-1.png "Скриншот с уведомлением")
+![Скриншот с уведомлением](https://github.com/StanislavBaranovskii/9-1-hw/blob/main/img/9-1-2-1.png "Настройка алерта")
+![Скриншот с уведомлением 2](https://github.com/StanislavBaranovskii/9-1-hw/blob/main/img/9-1-2-2.png "Уведомление по почте")
 
 ---
